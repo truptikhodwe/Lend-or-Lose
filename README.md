@@ -3,6 +3,7 @@ Training ML models to predict which individuals are at the highest risk of defau
 
 Please find detailed project report in the 'Report 1_Lend or Lose' and 'Report 2 Lend or Lose' pdfs. 
 
-Link: [Report 1]([https://github.com/truptikhodwe/Lend-or-Lose/blob/main/Report%20Lend%20or%20Lose.pdf](https://github.com/truptikhodwe/Lend-or-Lose/blob/main/Report%201_%20Lend%20or%20Lose.pdf))
+
+Link: [Report 1](https://github.com/truptikhodwe/Lend-or-Lose/blob/main/Report%201_%20Lend%20or%20Lose.pdf)
 
 Link: [Report 2]([https://github.com/truptikhodwe/Lend-or-Lose/blob/main/Report%20Lend%20or%20Lose.pdf](https://github.com/truptikhodwe/Lend-or-Lose/blob/main/Report%202%20Lend%20or%20Lose.pdf))
